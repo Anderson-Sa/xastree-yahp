@@ -37,3 +37,8 @@ o programa foi desenvolvido  utilizando as seguintes tecnologias
 
 ```
 
+
+---
+
+Desenvolvido por Anderson Santos
+
