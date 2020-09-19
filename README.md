@@ -32,7 +32,7 @@ o programa foi desenvolvido  utilizando as seguintes tecnologias
      # Instalar as dependências
      $ yarn install
 
-     # iniiciar o projeto
+     # iniciar o projeto
      $ yarn start  
 
 ```
